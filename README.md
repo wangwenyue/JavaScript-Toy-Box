@@ -2,11 +2,11 @@
 
 Do something fun with React.
 
-- [ImagePicker](./ImagePicker/README.md)
+- [ImagePicker](./ImagePicker)
 
-- [Progress](./Progress/README.md)
+- [Progress](./Progress)
 
-- [Slider](./Slider/README.md)
+- [Slider](./Slider)
 
 [Component ref]( https://ant.design/docs/react/introduce-cn)
 
